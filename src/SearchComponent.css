@@ -1,0 +1,20 @@
+#inputBox {
+    width: 600px;
+    height: 60px;
+    border: 2px solid red;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    margin-left: 500px;
+}
+
+.mainContainer {
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.namecont {
+    margin-top: 20px;
+    color: white;
+    margin-left: 800px;
+}
